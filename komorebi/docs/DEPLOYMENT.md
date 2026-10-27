@@ -1,5 +1,8 @@
 # Triển khai Vercel
 
+Website: https://komorebi-manga-hnquan.vercel.app
+GitHub: https://github.com/hoquan2007/Animes_fake
+
 Dự án: komorebi-manga / team hnquan. Root Directory: komorebi.
 Database: Neon Free, Singapore. Schema đã migrate và 12 kiểm thử tích hợp đã đạt.
 

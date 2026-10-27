@@ -27,7 +27,7 @@ export default function Shop() {
     media.add("(prefers-reduced-motion: no-preference)", () => {
       gsap.from(".hero-copy > *", {y:18, opacity:0, duration:0.65, stagger:0.07, ease:"power2.out", clearProps:"all"});
       gsap.from(".hero-shelf", {y:22, opacity:0, duration:0.85, delay:0.12, ease:"power2.out", clearProps:"all"});
-      gsap.utils.toArray<HTMLElement>(".collection-strip, .about-section").forEach(el => gsap.from(el, {y:24, opacity:0, duration:0.65, ease:"power2.out", clearProps:"all", scrollTrigger:{trigger:el,start:"top 92%",once:true}}));
+      gsap.utils.toArray<HTMLElement>(".collection-strip, .about").forEach(el => gsap.from(el, {y:24, opacity:0, duration:0.65, ease:"power2.out", clearProps:"all", scrollTrigger:{trigger:el,start:"top 92%",once:true}}));
     });
     return () => media.revert();
   }, {scope:root});
@@ -105,4 +105,3 @@ export default function Shop() {
     {toast&&<div className="toast" role="status"><CheckCircle2 size={19}/>{toast}<button className="icon-button" aria-label="Ẩn thông báo" onClick={()=>setToast('')}><X size={16}/></button></div>}
   </div>;
 }
-
