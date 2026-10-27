@@ -1,0 +1,54 @@
+{
+  "checkedAt": "2026-10-27T07:20:55.515Z",
+  "scope": "Next.js local server with real Neon PostgreSQL, signed guest sessions, demo orders; no real payment",
+  "results": [
+    {
+      "name": "Anonymous order access is rejected",
+      "passed": true
+    },
+    {
+      "name": "Cross-origin checkout is rejected",
+      "passed": true
+    },
+    {
+      "name": "Invalid quantity is rejected",
+      "passed": true
+    },
+    {
+      "name": "Real checkout cannot run without live configuration",
+      "passed": true
+    },
+    {
+      "name": "Authoritative pricing and atomic stock reservation",
+      "passed": true
+    },
+    {
+      "name": "Idempotency prevents duplicate orders and reservations",
+      "passed": true
+    },
+    {
+      "name": "Another session cannot view or mutate an order",
+      "passed": true
+    },
+    {
+      "name": "Demo completion is distinct from PAID and is idempotent",
+      "passed": true
+    },
+    {
+      "name": "Completed order cannot be cancelled",
+      "passed": true
+    },
+    {
+      "name": "Cancellation releases inventory exactly once",
+      "passed": true
+    },
+    {
+      "name": "Concurrent orders cannot oversell stock",
+      "passed": true
+    },
+    {
+      "name": "Completed order persists in the database",
+      "passed": true
+    }
+  ]
+}

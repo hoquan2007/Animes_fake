@@ -1,0 +1,1269 @@
+[
+  {
+    "id": 30013,
+    "title": {
+      "romaji": "ONE PIECE",
+      "english": "One Piece",
+      "native": "ONE PIECE"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg"
+    },
+    "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...\n<br><br>\n(Source: VIZ Media)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageScore": 91,
+    "staff": {
+      "edges": [
+        {
+          "role": "Story & Art",
+          "node": {
+            "name": {
+              "full": "Eiichirou Oda"
+            }
+          }
+        },
+        {
+          "role": "Assistant (former)",
+          "node": {
+            "name": {
+              "full": "Tatsuma Eijiri"
+            }
+          }
+        },
+        {
+          "role": "Assistant (Former)",
+          "node": {
+            "name": {
+              "full": "Shinya Suzuki"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Mikio Itou"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/30013",
+    "startDate": {
+      "year": 1997,
+      "month": 7,
+      "day": 22
+    },
+    "status": "RELEASING",
+    "isAdult": false
+  },
+  {
+    "id": 30011,
+    "title": {
+      "romaji": "NARUTO",
+      "english": "Naruto",
+      "native": "NARUTO -ナルト-"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30011-9yUF1dXWgDOx.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30011-9yUF1dXWgDOx.jpg"
+    },
+    "description": "Twelve years ago the Village Hidden in the Leaves was attacked by a fearsome threat. A nine-tailed fox spirit claimed the life of the village leader, the Hokage, and many others. Today, the village is at peace and a troublemaking kid named Naruto is struggling to graduate from Ninja Academy. His goal may be to become the next Hokage, but his true destiny will be much more complicated. The adventure begins now!\n<br><br>\n(Source: VIZ Media)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "averageScore": 80,
+    "staff": {
+      "edges": [
+        {
+          "role": "Story & Art",
+          "node": {
+            "name": {
+              "full": "Masashi Kishimoto"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Yuuichi Itakura"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Ryou Tasaka"
+            }
+          }
+        },
+        {
+          "role": "Translator (Portuguese)",
+          "node": {
+            "name": {
+              "full": "Ricardo Cruz"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/30011",
+    "startDate": {
+      "year": 1999,
+      "month": 9,
+      "day": 21
+    },
+    "status": "FINISHED",
+    "isAdult": false
+  },
+  {
+    "id": 30042,
+    "title": {
+      "romaji": "Dragon Ball",
+      "english": "Dragon Ball",
+      "native": "ドラゴンボール"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30042-4SetGiEbGc9x.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30042-4SetGiEbGc9x.jpg"
+    },
+    "description": "Dragon Ball follows the adventures of Son Goku from his childhood through adulthood as he trains in martial arts and explores the world in search of the seven mystical orbs known as the Dragon Balls, which can summon a wish-granting dragon when gathered. Along his journey, Goku makes several friends and battles a wide variety of villains, many of whom also seek the Dragon Balls for their own desires. Along the way becoming the strongest warrior in the universe.<br><br>\nPart II of Dragon Ball is also known as \"Dragon Ball Z\" in North America.<br><br>\n<i>Note: Includes one extra chapter.</i>",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "averageScore": 84,
+    "staff": {
+      "edges": [
+        {
+          "role": "Story & Art",
+          "node": {
+            "name": {
+              "full": "Akira Toriyama"
+            }
+          }
+        },
+        {
+          "role": "Editing (1988-1992)",
+          "node": {
+            "name": {
+              "full": "Yuu Kondou"
+            }
+          }
+        },
+        {
+          "role": "Editing (1984-1988)",
+          "node": {
+            "name": {
+              "full": "Kazuhiko Torishima"
+            }
+          }
+        },
+        {
+          "role": "Translator (Norwegian, Outland Forlag)",
+          "node": {
+            "name": {
+              "full": "Lisa-Marie Pettersen Leira"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/30042",
+    "startDate": {
+      "year": 1984,
+      "month": 11,
+      "day": 20
+    },
+    "status": "FINISHED",
+    "isAdult": false
+  },
+  {
+    "id": 108556,
+    "title": {
+      "romaji": "SPY×FAMILY",
+      "english": "SPY x FAMILY",
+      "native": "SPY×FAMILY"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108556-NHjkz0BNJhLx.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108556-NHjkz0BNJhLx.jpg"
+    },
+    "description": "The master spy codenamed &lt;Twilight&gt; has spent his days on undercover missions, all for the dream of a better world. But one day, he receives a particularly difficult new order from command. For his mission, he must form a temporary family and start a new life?! A Spy/Action/Comedy about a one-of-a-kind family!<br><br>\n(Source: MANGA Plus)<br><br>\n<i>Notes:<br>\n- Nominated for the 24th Tezuka Osamu Cultural Prize in 2020.<br>\n- Nominated for the 13th and 14th Manga Taisho Award in 2020 and 2021.<br>\n- Nominated for the 44th Kodansha Manga Award in the Shounen Category in 2020.</i>",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "averageScore": 83,
+    "staff": {
+      "edges": [
+        {
+          "role": "Story & Art",
+          "node": {
+            "name": {
+              "full": "Tatsuya Endou"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Mafuyu Konishi"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Hikari Suehiru"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Itsuchi Yosuga"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/108556",
+    "startDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 25
+    },
+    "status": "RELEASING",
+    "isAdult": false
+  },
+  {
+    "id": 118586,
+    "title": {
+      "romaji": "Sousou no Frieren",
+      "english": "Frieren: Beyond Journey’s End",
+      "native": "葬送のフリーレン"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118586-CXKgWikBFQgS.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118586-CXKgWikBFQgS.jpg"
+    },
+    "description": "The adventure is over but life goes on for an elf mage just beginning to learn what living is all about.\n<br><br>\nElf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. With the great struggle over, they all go their separate ways to live a quiet life. But as an elf, Frieren, nearly immortal, will long outlive the rest of her former party. How will she come to terms with the mortality of her friends? How can she find fulfillment in her own life, and can she learn to understand what life means to the humans around her? Frieren begins a new journey to find the answer.<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes:<br>\n- Winner of the Grand Prize at the 14th Manga Taisho Awards.<br>\n- Nominated for the 25th Annual Tezuka Osamu Cultural Prize.<br>\n- Placed 3rd at the 7th Annual Next Manga Award.</i>",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageScore": 87,
+    "staff": {
+      "edges": [
+        {
+          "role": "Story",
+          "node": {
+            "name": {
+              "full": "Kanehito Yamada"
+            }
+          }
+        },
+        {
+          "role": "Art",
+          "node": {
+            "name": {
+              "full": "Tsukasa Abe"
+            }
+          }
+        },
+        {
+          "role": "Translator (French)",
+          "node": {
+            "name": {
+              "full": "Géraldine Oudin"
+            }
+          }
+        },
+        {
+          "role": "Lettering (English)",
+          "node": {
+            "name": {
+              "full": "Annaliese Christman"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/118586",
+    "startDate": {
+      "year": 2020,
+      "month": 4,
+      "day": 28
+    },
+    "status": "RELEASING",
+    "isAdult": false
+  },
+  {
+    "id": 31032,
+    "title": {
+      "romaji": "Doraemon",
+      "english": null,
+      "native": "ドラえもん"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31032-EnHYnoLVqlWG.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31032-EnHYnoLVqlWG.jpg"
+    },
+    "description": "Doraemon, a cat shaped robot which came from the 22nd century in the future, goes back in time in order to help Nobita, a below average lazy kid, to make his life less miserable and improve his descendent's life. With many of Doreamon's gadgets from the future, Nobita's life will never be as the same.\n",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "averageScore": 80,
+    "staff": {
+      "edges": [
+        {
+          "role": "Story & Art",
+          "node": {
+            "name": {
+              "full": "F. Fujio Fujiko"
+            }
+          }
+        },
+        {
+          "role": "Translator (French)",
+          "node": {
+            "name": {
+              "full": "Misato Raillard"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Rui Hachuu"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/31032",
+    "startDate": {
+      "year": 1969,
+      "month": 12,
+      "day": 1
+    },
+    "status": "FINISHED",
+    "isAdult": false
+  },
+  {
+    "id": 31061,
+    "title": {
+      "romaji": "Meitantei Conan",
+      "english": "Detective Conan",
+      "native": "名探偵コナン"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31061-SJQb7931MG7m.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31061-SJQb7931MG7m.jpg"
+    },
+    "description": "Precocious high school student Jimmy Kudo uses his keen powers of observation and astute intuition to solve mysteries that have left law enforcement officials baffled. Hot on the trail of a suspect, Jimmy is accosted from behind and fed a strange chemical which physically transforms him into a grade schooler! Taking on the pseudonym Conan Edogawa, he attempts to track down the people who did this to him. But until he finds a cure for his bizarre condition, Jimmy continues to help the police solve their toughest cases. Can you crack the case before Conan does?\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Note: Won the 46th Shogakukan Manga Award in the shounen category in 2001.</i>",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Mystery",
+      "Romance"
+    ],
+    "averageScore": 83,
+    "staff": {
+      "edges": [
+        {
+          "role": "Story & Art",
+          "node": {
+            "name": {
+              "full": "Gosho Aoyama"
+            }
+          }
+        },
+        {
+          "role": "Translator (Spanish: vol 30- )",
+          "node": {
+            "name": {
+              "full": "Marc Bernabé"
+            }
+          }
+        },
+        {
+          "role": "Translator (Norwegian: vol 1-31)",
+          "node": {
+            "name": {
+              "full": "Jens Erik Røsåsen"
+            }
+          }
+        },
+        {
+          "role": "Translator (French: vol 25-41)",
+          "node": {
+            "name": {
+              "full": "Thibaud Desbief"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/31061",
+    "startDate": {
+      "year": 1994,
+      "month": 2,
+      "day": 2
+    },
+    "status": "RELEASING",
+    "isAdult": false
+  },
+  {
+    "id": 65243,
+    "title": {
+      "romaji": "Haikyuu!!",
+      "english": "Haikyu!!",
+      "native": "ハイキュー！！"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx65243-mR4MnJFmfaOF.png",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx65243-mR4MnJFmfaOF.png"
+    },
+    "description": "<b>Shouyou Hinata is out to prove that in volleyball you don’t need to be tall to fly!</b>\n<br><br>\nAfter losing his first and last volleyball match against Tobio Kageyama, “the King of the Court,” Shouyou Hinata swears to become his rival after graduating middle school. But what happens when the guy he wants to defeat ends up being his teammate?!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes: <br>\n- Winner of the 61st Shogakukan Manga Award in the Shounen Category in 2017.<br>\n- Includes two extra chapters.</i>",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "averageScore": 88,
+    "staff": {
+      "edges": [
+        {
+          "role": "Story & Art",
+          "node": {
+            "name": {
+              "full": "Haruichi Furudate"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Kouhei Uchida"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Ken Ogino"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Atsushi Namikiri"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/65243",
+    "startDate": {
+      "year": 2012,
+      "month": 2,
+      "day": 20
+    },
+    "status": "FINISHED",
+    "isAdult": false
+  },
+  {
+    "id": 106130,
+    "title": {
+      "romaji": "Blue Lock",
+      "english": "Blue Lock",
+      "native": "ブルーロック"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106130-yPNeuSu75ey1.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106130-yPNeuSu75ey1.jpg"
+    },
+    "description": "After a disastrous defeat at the 2018 World Cup, Japan's team struggles to regroup. But what's missing? An absolute Ace Striker, who can guide them to the win. The Japan Football Union is hell-bent on creating a striker who hungers for goals and thirsts for victory, and who can be the decisive instrument in turning around a losing match...and to do so, they've gathered 300 of Japan's best and brightest youth players. Who will emerge to lead the team...and will they be able to out-muscle and out-ego everyone who stands in their way?\n<br><br>\n(Source: Kodansha USA)\n<br><br>\n<i>Note: Winner of the 45th Kodansha Manga Award in the Shounen Category in 2021.</i>",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sports"
+    ],
+    "averageScore": 82,
+    "staff": {
+      "edges": [
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Tatsuya Endou"
+            }
+          }
+        },
+        {
+          "role": "Story",
+          "node": {
+            "name": {
+              "full": "Muneyuki Kaneshiro"
+            }
+          }
+        },
+        {
+          "role": "Art",
+          "node": {
+            "name": {
+              "full": "Yuusuke Nomura"
+            }
+          }
+        },
+        {
+          "role": "Lettering (English)",
+          "node": {
+            "name": {
+              "full": "Chris Burgener"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/106130",
+    "startDate": {
+      "year": 2018,
+      "month": 8,
+      "day": 1
+    },
+    "status": "RELEASING",
+    "isAdult": false
+  },
+  {
+    "id": 125828,
+    "title": {
+      "romaji": "SAKAMOTO DAYS",
+      "english": "Sakamoto Days",
+      "native": "SAKAMOTO DAYS"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125828-p78Z8SflkfmO.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125828-p78Z8SflkfmO.jpg"
+    },
+    "description": "Taro Sakamoto was the ultimate assassin, feared by villains and admired by hitmen. But one day...he fell in love! Retirement, marriage, fatherhood and then... Sakamoto gained weight! The chubby guy who runs the neighborhood store is actually a former legendary hitman! Can he protect his family from danger? Get ready to experience a new kind of action comedy series!\n<br><br>\n(Source: MANGA Plus)",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "averageScore": 79,
+    "staff": {
+      "edges": [
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Tomohiro Iwakura"
+            }
+          }
+        },
+        {
+          "role": "Story & Art",
+          "node": {
+            "name": {
+              "full": "Yuuto  Suzuki"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Yuu Odoriba"
+            }
+          }
+        },
+        {
+          "role": "Translator (English)",
+          "node": {
+            "name": {
+              "full": "Camellia Nieh"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/125828",
+    "startDate": {
+      "year": 2020,
+      "month": 11,
+      "day": 21
+    },
+    "status": "RELEASING",
+    "isAdult": false
+  },
+  {
+    "id": 30025,
+    "title": {
+      "romaji": "Hagane no Renkinjutsushi",
+      "english": "Fullmetal Alchemist",
+      "native": "鋼の錬金術師"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30025-mpPVpCKFTowt.png",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30025-mpPVpCKFTowt.png"
+    },
+    "description": "Alchemy tore the Elric brothers’ bodies apart. Can their bond make them whole again?<br>\nIn this world, alchemists are those who study and perform the art of alchemical transmutation—the science of manipulating and transforming matter. They are bounded by the Law of Equivalent Exchange: in order to gain something, one must sacrifice something of equal value.<br>\nIn an alchemical ritual gone wrong, Edward Elric lost his arm and his leg, and his brother Alphonse became nothing but a soul in a suit of armor. Equipped with mechanical “auto-mail” limbs, Edward becomes a state alchemist, seeking the one thing that can restore his and his brother’s bodies...the legendary Philosopher’s Stone.\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Note: Includes eight extra chapters.</i>",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageScore": 89,
+    "staff": {
+      "edges": [
+        {
+          "role": "Story & Art",
+          "node": {
+            "name": {
+              "full": "Hiromu Arakawa"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Kyu Aiya"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Hikaru Miyoshi"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Jun Tokou"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/30025",
+    "startDate": {
+      "year": 2001,
+      "month": 7,
+      "day": 12
+    },
+    "status": "FINISHED",
+    "isAdult": false
+  },
+  {
+    "id": 30104,
+    "title": {
+      "romaji": "Yotsuba to!",
+      "english": "Yotsuba&!",
+      "native": "よつばと！"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30104-sUVzNlTWZ5cu.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30104-sUVzNlTWZ5cu.jpg"
+    },
+    "description": "Hello! This is Koiwai Yotsuba, Yotsuba Koiwai...um, YOTSUBA! Yotsuba moved with Daddy to a new house from our old house waaaaaaay over there! And moving's fun 'cos people wave! (Ohhhh!!) And Yotsuba met these nice people next door and made friends to play with (one of 'em acted like one of those bad strangers Daddy told Yotsuba not to go with, but it was okay in the end). I hope we get to play a lot. And eat ice cream! And-and-and...oh yeah! You should come play with Yotsuba too!<br><br>\n(Source: Yen Press)\n<br><br>\n<i>Notes:<br>\n- Includes an interlude.<br>\n- Won the Excellence Award for Manga at the Japan Media Arts Festival in 2006 and the Grand Prize of the 20th Osamu Tezuka Cultural Prize in 2016.<br>\n- Was nominated for the Manga Taishō award in 2008 and for the 12th and 20th Osamu Tezuka Cultural Prize in 2008 and 2016.<br>\n- Was nominated for the Eisner Award in the \"Best Publication for Kids\" category.</i>",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "averageScore": 89,
+    "staff": {
+      "edges": [
+        {
+          "role": "Story & Art",
+          "node": {
+            "name": {
+              "full": "Kiyohiko Azuma"
+            }
+          }
+        },
+        {
+          "role": "Translator (English: vols 2, 3, 10-)",
+          "node": {
+            "name": {
+              "full": "Stephen Paul"
+            }
+          }
+        },
+        {
+          "role": "Translator (English: vols 1, 4-9)",
+          "node": {
+            "name": {
+              "full": "Amy Forsyth"
+            }
+          }
+        },
+        {
+          "role": "Translator (French)",
+          "node": {
+            "name": {
+              "full": "Eve Chauviré"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/30104",
+    "startDate": {
+      "year": 2003,
+      "month": 3,
+      "day": 21
+    },
+    "status": "RELEASING",
+    "isAdult": false
+  },
+  {
+    "id": 98416,
+    "title": {
+      "romaji": "Dr. STONE",
+      "english": "Dr. STONE",
+      "native": "Dr.STONE"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b98416-L44f4idEGMAX.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b98416-L44f4idEGMAX.jpg"
+    },
+    "description": "One fateful day, all of humanity was petrified by a blinding flash of light. After several millennia, high schooler Taiju awakens and finds himself lost in a world of statues. However, he’s not alone! His science-loving friend Senku’s been up and running for a few months and he's got a grand plan in mind—to kickstart civilization with the power of science!\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Note: Shueisha published its 27th volume on April 4, 2024. This volume contains the one-shot Dr. STONE: TERRAFORMING and the mini-series Dr. STONE 4D SCIENCE.</i>",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "averageScore": 81,
+    "staff": {
+      "edges": [
+        {
+          "role": "Story",
+          "node": {
+            "name": {
+              "full": "Riichirou Inagaki"
+            }
+          }
+        },
+        {
+          "role": "Art",
+          "node": {
+            "name": {
+              "full": "Boichi"
+            }
+          }
+        },
+        {
+          "role": "Translator (English)",
+          "node": {
+            "name": {
+              "full": "Caleb Cook"
+            }
+          }
+        },
+        {
+          "role": "Science Consultant",
+          "node": {
+            "name": {
+              "full": "Kurare"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/98416",
+    "startDate": {
+      "year": 2017,
+      "month": 3,
+      "day": 6
+    },
+    "status": "FINISHED",
+    "isAdult": false
+  },
+  {
+    "id": 132029,
+    "title": {
+      "romaji": "Dandadan",
+      "english": "Dandadan",
+      "native": "ダンダダン"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132029-prGF4gePdSKv.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-prGF4gePdSKv.jpg"
+    },
+    "description": "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames “Okarun” because he has a name that is not to be said aloud. While Momo believes in spirits, she thinks aliens are nothing but nonsense. Her new friend, meanwhile, thinks the exact opposite. To settle matters, the two set out to prove each other wrong—Momo to a UFO hotspot and Okarun to a haunted tunnel! What unfolds next is a beautiful story of young love…and oddly horny aliens and spirits?\n<br><br>\n(Source: VIZ Media) \n<br><br>\n<i>Note: Nominated for the 15th Manga Taisho Award in 2022.</i>",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "averageScore": 82,
+    "staff": {
+      "edges": [
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Tooru Kuramori"
+            }
+          }
+        },
+        {
+          "role": "Story & Art",
+          "node": {
+            "name": {
+              "full": "Yukinobu Tatsu"
+            }
+          }
+        },
+        {
+          "role": "Translator (English: chs 4-9, 13-15)",
+          "node": {
+            "name": {
+              "full": "John Werry"
+            }
+          }
+        },
+        {
+          "role": "Translator (English: chs 1-3, 10-12, 16-)",
+          "node": {
+            "name": {
+              "full": "Kumar Sivasubramanian"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/132029",
+    "startDate": {
+      "year": 2021,
+      "month": 4,
+      "day": 6
+    },
+    "status": "RELEASING",
+    "isAdult": false
+  },
+  {
+    "id": 87216,
+    "title": {
+      "romaji": "Kimetsu no Yaiba",
+      "english": "Demon Slayer: Kimetsu no Yaiba",
+      "native": "鬼滅の刃"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87216-c9bSNVD10UuD.png",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87216-c9bSNVD10UuD.png"
+    },
+    "description": "The setting is Taisho era Japan. Tanjirou is a kindhearted young boy who lived peacefully with his family as a coal seller. Their normal life changes completely when his family is slaughtered by demons. The only other survivor, Tanjirou's younger sister Nezuko, has become a ferocious demon. In order to return Nezuko to normal and get revenge on the demon that killed their family, the two of them depart on a journey. From a young talent, an adventure tale of blood and swords begins!\n<br><br>\n(Source: Shonen Jump)\n<br><br>\n<i>Notes:<br>\n- Includes two extra chapters.<br> \n- Nominated to the 24th and 25th Annual Tezuka Osamu Cultural Prize.</i>",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Supernatural"
+    ],
+    "averageScore": 79,
+    "staff": {
+      "edges": [
+        {
+          "role": "Story & Art",
+          "node": {
+            "name": {
+              "full": "Koyoharu Gotouge"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Kintetsu Yamada"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Mizuki Yoda"
+            }
+          }
+        },
+        {
+          "role": "Editor",
+          "node": {
+            "name": {
+              "full": "Tatsuhiko Katayama"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/87216",
+    "startDate": {
+      "year": 2016,
+      "month": 2,
+      "day": 15
+    },
+    "status": "FINISHED",
+    "isAdult": false
+  },
+  {
+    "id": 101517,
+    "title": {
+      "romaji": "Jujutsu Kaisen",
+      "english": "Jujutsu Kaisen",
+      "native": "呪術廻戦"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101517-H3TdM3g5ZUe9.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101517-H3TdM3g5ZUe9.jpg"
+    },
+    "description": "Although Yuji Itadori looks like your average teenager, his immense physical strength is something to behold! Every sports club wants him to join, but Itadori would rather hang out with the school outcasts in the Occult Research Club. One day, the club manages to get their hands on a sealed cursed object. Little do they know the terror they’ll unleash when they break the seal…\n<br><br>\n(Source: VIZ Media)\n<br><br>\n<i>Notes:<br>\n- Ranked 1st in Japan's Bookstore Employees Top Manga of 2018.<br>\n- Nominated for the 25th Annual Tezuka Osamu Cultural Prize in 2021.<br>\n- Nominated for the 65th Shogakukan Manga Award in the Shounen Category in 2019.<br>\n- Includes one extra chapter.</i>",
+    "genres": [
+      "Action",
+      "Drama",
+      "Supernatural"
+    ],
+    "averageScore": 80,
+    "staff": {
+      "edges": [
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Shiro Usazaki"
+            }
+          }
+        },
+        {
+          "role": "Story & Art",
+          "node": {
+            "name": {
+              "full": "Gege Akutami"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Mizuki Yoda"
+            }
+          }
+        },
+        {
+          "role": "Editor",
+          "node": {
+            "name": {
+              "full": "Tatsuhiko Katayama"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/101517",
+    "startDate": {
+      "year": 2018,
+      "month": 3,
+      "day": 5
+    },
+    "status": "FINISHED",
+    "isAdult": false
+  },
+  {
+    "id": 30021,
+    "title": {
+      "romaji": "DEATH NOTE",
+      "english": "Death Note",
+      "native": "DEATH NOTE"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30021-FE6kmrfpuKyb.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30021-FE6kmrfpuKyb.jpg"
+    },
+    "description": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?<br><br>(Source: VIZ Media)",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "averageScore": 84,
+    "staff": {
+      "edges": [
+        {
+          "role": "Art",
+          "node": {
+            "name": {
+              "full": "Takeshi Obata"
+            }
+          }
+        },
+        {
+          "role": "Story",
+          "node": {
+            "name": {
+              "full": "Tsugumi Ooba"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Kahiro Kyouda"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Ryou Ogawa"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/30021",
+    "startDate": {
+      "year": 2003,
+      "month": 12,
+      "day": 1
+    },
+    "status": "FINISHED",
+    "isAdult": false
+  },
+  {
+    "id": 55096,
+    "title": {
+      "romaji": "Gin no Saji",
+      "english": "Silver Spoon",
+      "native": "銀の匙"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55096-xdMg0fzQY52d.png",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx55096-xdMg0fzQY52d.png"
+    },
+    "description": "Defying the expectations of family and teachers, Yuugo Hachiken chooses to leave the city and enroll at Ooezo Agricultural High School. Having always been at the top of his class, Yuugo assumes a rural school will be a breeze, but mucking out stables, gathering eggs, and chasing errant calves takes a lot out of him-and fills him with something he's never experienced before. Surrounded by endless fields and fresh air, Yuugo discovers a new connection to the land and to life... Springtime begins at Ezo AG!!\n<br><br>\n(Source: Yen Press)",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Slice of Life"
+    ],
+    "averageScore": 82,
+    "staff": {
+      "edges": [
+        {
+          "role": "Story & Art",
+          "node": {
+            "name": {
+              "full": "Hiromu Arakawa"
+            }
+          }
+        },
+        {
+          "role": "Translator (English)",
+          "node": {
+            "name": {
+              "full": "Amanda Haley"
+            }
+          }
+        },
+        {
+          "role": "Translator (Italian)",
+          "node": {
+            "name": {
+              "full": "Edoardo Serino"
+            }
+          }
+        },
+        {
+          "role": "Lettering (English)",
+          "node": {
+            "name": {
+              "full": "Abigail Blackman"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/55096",
+    "startDate": {
+      "year": 2011,
+      "month": 3,
+      "day": 30
+    },
+    "status": "FINISHED",
+    "isAdult": false
+  },
+  {
+    "id": 39711,
+    "title": {
+      "romaji": "Bakuman.",
+      "english": "Bakuman。",
+      "native": "バクマン。"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39711-tjPWXT1AW321.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39711-tjPWXT1AW321.jpg"
+    },
+    "description": "Average student Moritaka Mashiro enjoys drawing for fun. When his classmate and aspiring writer Akito Takagi discovers his talent, he begs Moritaka to team up with him as a manga-creating duo. But what exactly does it take to make it in the manga-publishing world?\n<br><br>\n(Source: VIZ Media)",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 81,
+    "staff": {
+      "edges": [
+        {
+          "role": "Art",
+          "node": {
+            "name": {
+              "full": "Takeshi Obata"
+            }
+          }
+        },
+        {
+          "role": "Story",
+          "node": {
+            "name": {
+              "full": "Tsugumi Ooba"
+            }
+          }
+        },
+        {
+          "role": "Editor (2010-2012)",
+          "node": {
+            "name": {
+              "full": "Kengo Monji"
+            }
+          }
+        },
+        {
+          "role": "Translator (Spanish)",
+          "node": {
+            "name": {
+              "full": "Marc Bernabé"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/39711",
+    "startDate": {
+      "year": 2008,
+      "month": 8,
+      "day": 8
+    },
+    "status": "FINISHED",
+    "isAdult": false
+  },
+  {
+    "id": 30026,
+    "title": {
+      "romaji": "HUNTER×HUNTER",
+      "english": "Hunter x Hunter",
+      "native": "HUNTER×HUNTER"
+    },
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30026-uCvXMudMzmwI.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg"
+    },
+    "description": "Gon might be a country boy, but he has high aspirations. Despite his Aunt Mito's protests, Gon decides to follow in his father's footsteps and become a legendary Hunter. The Hunter hopefuls begin their journey by storm-tossed ship, where Gon meets Leorio and Kurapika, the only other applicants who aren't devastated by bouts of seasickness.\n<br><br>\nHaving survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?<br><br>\n(Source: VIZ Media)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageScore": 88,
+    "staff": {
+      "edges": [
+        {
+          "role": "Story & Art",
+          "node": {
+            "name": {
+              "full": "Yoshihiro Togashi"
+            }
+          }
+        },
+        {
+          "role": "Assistant (Screentone: Vol 1)",
+          "node": {
+            "name": {
+              "full": "Naoko Takeuchi"
+            }
+          }
+        },
+        {
+          "role": "Assistant",
+          "node": {
+            "name": {
+              "full": "Katsunori Matsui"
+            }
+          }
+        },
+        {
+          "role": "Editor",
+          "node": {
+            "name": {
+              "full": "Kouhei Oonishi"
+            }
+          }
+        }
+      ]
+    },
+    "siteUrl": "https://anilist.co/manga/30026",
+    "startDate": {
+      "year": 1998,
+      "month": 3,
+      "day": 3
+    },
+    "status": "RELEASING",
+    "isAdult": false
+  }
+]

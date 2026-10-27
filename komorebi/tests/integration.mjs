@@ -1,0 +1,35 @@
+import assert from 'node:assert/strict';
+import { writeFileSync } from 'node:fs';
+import { neon } from '@neondatabase/serverless';
+const origin='http://127.0.0.1:5173';
+const results=[];
+async function request(path, options={}) {const r=await fetch(origin+path,options);const text=await r.text();let data;try{data=JSON.parse(text);}catch{data={error:text};}return {status:r.status,body:data};}
+function ok(name){results.push({name,passed:true});console.log(`PASS ${name}`);}
+assert.equal((await request('/api/orders')).status,401);ok('Anonymous order access is rejected');
+const auth=await fetch(origin+'/api/session',{method:'POST',headers:{Origin:origin}});
+const cookie=auth.headers.getSetCookie().map(v=>v.split(';')[0]).join('; ');
+assert.ok(cookie);const headers={'Content-Type':'application/json','Origin':origin,'Cookie':cookie};
+const customer={name:'Integration Test',phone:'0901234567',email:'demo@example.com',address:'12 Test Street, Demo City'};
+const payload=(quantity=1,id=crypto.randomUUID(),productId='al-30013')=>({mode:'demo',customer,items:[{productId,quantity,price:1}],amount:1,idempotencyKey:id});
+const post=(path,data,extra={})=>request(path,{method:'POST',headers:{...headers,...extra},body:JSON.stringify(data)});
+assert.equal((await post('/api/orders',payload(),{Origin:'https://wrong.example'})).status,403);ok('Cross-origin checkout is rejected');
+assert.equal((await post('/api/orders',payload(-1))).status,400);ok('Invalid quantity is rejected');
+assert.equal((await post('/api/orders',{...payload(),mode:'live'})).status,503);ok('Real checkout cannot run without live configuration');
+const sql=neon(process.env.DATABASE_URL);
+const stock=async id=>(await sql`SELECT stock FROM inventory WHERE product_id=${id}`)[0]?.stock;
+const before=(await stock('al-30013'))??20;
+const input=payload();const first=await post('/api/orders',input);assert.equal(first.status,201);const order=first.body.order;assert.equal(order.amount,50000);assert.equal(order.status,'PENDING');assert.equal(await stock('al-30013'),before-1);ok('Authoritative pricing and atomic stock reservation');
+const again=await post('/api/orders',input);assert.equal(again.body.order.id,order.id);assert.equal(await stock('al-30013'),before-1);ok('Idempotency prevents duplicate orders and reservations');
+const foreign=await fetch(origin+'/api/session',{method:'POST',headers:{Origin:origin}});
+const foreignCookie=foreign.headers.getSetCookie().map(v=>v.split(';')[0]).join('; ');
+assert.equal((await request(`/api/orders/${order.id}`,{headers:{...headers,Cookie:foreignCookie}})).status,404);assert.equal((await post(`/api/orders/${order.id}`,{action:'cancel'},{Cookie:foreignCookie})).status,404);ok('Another session cannot view or mutate an order');
+const done=await post(`/api/orders/${order.id}`,{action:'complete-demo'});assert.equal(done.body.order.status,'DEMO_COMPLETE');assert.equal(await stock('al-30013'),before);await post(`/api/orders/${order.id}`,{action:'complete-demo'});assert.equal(await stock('al-30013'),before);ok('Demo completion is distinct from PAID and is idempotent');
+assert.equal((await post(`/api/orders/${order.id}`,{action:'cancel'})).status,409);ok('Completed order cannot be cancelled');
+const cancellation=await post('/api/orders',payload());assert.equal(cancellation.status,201);const cancelId=cancellation.body.order.id;
+assert.equal((await post(`/api/orders/${cancelId}`,{action:'cancel'})).body.order.status,'CANCELLED');assert.equal((await post(`/api/orders/${cancelId}`,{action:'cancel'})).status,409);assert.equal(await stock('al-30013'),before);ok('Cancellation releases inventory exactly once');
+const race=await Promise.all(Array.from({length:3},()=>post('/api/orders',payload(10,crypto.randomUUID(),'al-30011'),{Cookie:foreignCookie})));
+assert.equal(race.filter(r=>r.status===201).length,2);assert.equal(race.filter(r=>r.status===409).length,1);assert.equal(await stock('al-30011'),0);ok('Concurrent orders cannot oversell stock');
+for(const r of race.filter(r=>r.status===201))await post(`/api/orders/${r.body.order.id}`,{action:'cancel'},{Cookie:foreignCookie});
+assert.equal(await stock('al-30011'),20);
+const persisted=await request(`/api/orders/${order.id}`,{headers});assert.equal(persisted.body.order.status,'DEMO_COMPLETE');ok('Completed order persists in the database');
+writeFileSync('docs/integration-results.json',JSON.stringify({checkedAt:new Date().toISOString(),scope:'Next.js local server with real Neon PostgreSQL, signed guest sessions, demo orders; no real payment',results},null,2));
