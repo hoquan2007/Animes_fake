@@ -1,0 +1,40 @@
+{
+  "checkedAt": "2026-10-27T07:29:48.167Z",
+  "origin": "https://komorebi-manga-hnquan.vercel.app",
+  "orderCode": 1793086188411422,
+  "scope": "Created, reconciled and cancelled an unpaid live link. No bank transfer or real PAID webhook was performed.",
+  "results": [
+    {
+      "name": "Public storefront responds",
+      "passed": true
+    },
+    {
+      "name": "Live payment is configured",
+      "passed": true
+    },
+    {
+      "name": "Signed secure guest session starts on production",
+      "passed": true
+    },
+    {
+      "name": "payOS returns a genuine unpaid checkout link for 50,000 VND",
+      "passed": true
+    },
+    {
+      "name": "Live creation is idempotent",
+      "passed": true
+    },
+    {
+      "name": "Return query cannot forge payment success; payOS reconciliation works",
+      "passed": true
+    },
+    {
+      "name": "Public webhook rejects forged signatures",
+      "passed": true
+    },
+    {
+      "name": "Unpaid test link is cancelled with payOS",
+      "passed": true
+    }
+  ]
+}
